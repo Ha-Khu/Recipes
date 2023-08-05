@@ -9,3 +9,8 @@
     width: 600px;
     height: auto;
 }
+
+.warning-message {
+    font-size: 25px;
+    color: rgb(62, 117, 136);
+}
